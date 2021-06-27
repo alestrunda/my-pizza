@@ -1,4 +1,4 @@
-# Usersnap
+# My Pizza
 
 Simple react app to order pizza with extras.
 
